@@ -23,5 +23,23 @@ nombre = "James"
 console.log (nombre); 
 </script>
 
+### Conceptos básicos
 
 
+¿Cuáles de estos nombres son aceptables para las variables de JavaScript?
+
+primer numero 
+_modulo
+
+Complete los tipos de datos de los datos que se muestran a continuación en el campo de comentarios:
+12 // número
+
+"algún texto" // 
+string
+
+
+cierto // 
+boolean
+¿Cuál es el resultado de la expresión var1 && var2, si var1 = true y var2 = false?
+
+falso
