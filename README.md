@@ -98,3 +98,47 @@ do
 while
  (i <10);
 
+### Funciones
+
+¿El siguiente código dará como resultado qué valor? prueba de función (número) {while (número <5) {número ++; } número de retorno; } alerta (prueba (2));
+5
+
+¿Cuál es el resultado de la siguiente expresión? función multNmbrs (a, b) {var c = a * b; } multNmbrs (2, 6);
+
+Nada
+
+Complete los nombres correspondientes para los cuadros de diálogo integrados:
+prompt
+ es para obtener información del usuario;
+
+alert
+ es para mostrar un mensaje en un cuadro;
+
+Complete los espacios en blanco para calcular el máximo de los parámetros:
+function max (a, b) {
+
+  
+if
+(a> = b)
+
+    regreso 
+a
+;
+
+  
+else
+
+
+    volver b;
+
+}
+
+
+¿Cuál es la sintaxis correcta para hacer referencia a un script externo llamado "script.js"?
+
+<script src = "script.js">
+
+¿Qué alerta se mostrará en la pantalla? función test (a, b) {if (a> b) {return a * b; } else {return b / a; }} alerta (prueba (5, 15));
+3
+
+
