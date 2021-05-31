@@ -202,4 +202,73 @@ b
 Arrastre y suelte las opciones siguientes para recibir una alerta con el valor de la constante PI.
 alert (math.PI);
 
+### DOM y eventos
+
+Complete los espacios en blanco para cambiar el contenido de todas las etiquetas de párrafo de la página a "SoloLearn".
+var arr = 
+document
+.
+
+  getElementsByTagName ("
+p
+");
+
+para (var x = 0; x <longitud de arr.; x ++) 
+
+{
+
+   arr [
+x
+] .innerHTML = "SoloLearn";
+
+}
+
+¿Cuál es el resultado de este código?
+
+ <div id = "prueba"> <p> algo de texto </p> </div> <script> var el = document.getElementById ("prueba"); alert (el.hasChildNodes ()); </script>
+cierto
+
+
+Arrastre y suelte las opciones siguientes para cambiar el color del párrafo con id = "p2" a rojo.
+<script>
+
+
+var d = document.
+
+
+  getElementById ("p2");
+b.style .color = "red";
+
+
+</script>
+
+
+¿Puede manejar varios eventos en el mismo elemento HTML?
+sí
+
+Complete los espacios en blanco para alertar un mensaje cuando se hace clic en el botón.
+
+<button 
+="msg()">Click me</button>
+
+<script>
+
+ msg() {
+
+  alert("Hi!");
+
+}
+
+</script>
+
+Complete los espacios en blanco para alertar un mensaje cuando se hace clic en el botón.
+<div 
+onmouseover
+="alert('Hi!');">
+
+  put the mouse pointer over me
+
+</div>
+
+
 
