@@ -136,12 +136,15 @@ else
 
 ¿Cuál es la sintaxis correcta para hacer referencia a un script externo llamado "script.js"?
 
-<script src = "script.js">
+***<script src ="script.js">***
 
-¿Qué alerta se mostrará en la pantalla? función test (a, b) {if (a> b) {return a * b; } else {return b / a; }} alerta (prueba (5, 15));
+¿Qué alerta se mostrará en la pantalla? 
+
+función test (a, b) {if (a> b) {return a * b; } else {return b / a; }} alerta (prueba (5, 15));
+
 3
 
-### Objetos
+### OBJETO
 
 Las propiedades de un objeto son similares a las variables; los métodos son similares a:
 
@@ -167,4 +170,36 @@ calculate
 ;
 
 }
+
+### Objetos centrales
+
+Dada la matriz a continuación, complete la expresión para recibir una alerta con "manzana".
+var fruit = new Array ("pera", "naranja",
+
+"manzana", "pomelo");
+
+
+
+alerta (frutas
+[2]
+);
+
+¿Cuál es el resultado de la siguiente expresión? alerta (Math.sqrt (36));
+6
+
+Complete los espacios en blanco para mostrar los minutos actuales:
+var fecha = nueva fecha ();
+
+alerta(
+date
+.
+get
+Minutos());
+
+¿Cuál es el resultado de este código? var arr = new Array ("a", "b", "c"); alerta (arr [1]);
+b
+
+Arrastre y suelte las opciones siguientes para recibir una alerta con el valor de la constante PI.
+alert (math.PI);
+
 
